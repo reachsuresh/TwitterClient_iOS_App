@@ -30,5 +30,5 @@ Time spent: `10`
 
 ### Walkthrough
 
-![Video Walkthrough]()
+![Video Walkthrough](https://raw.githubusercontent.com/vmkolli/TwitterClient_iOS_App/master/TwitterClient/TwitterClientDemo.gif)
 
